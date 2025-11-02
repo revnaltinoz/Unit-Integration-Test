@@ -1,4 +1,4 @@
-# 🛠️ MLOps Testing Demo: Insurance Premium Calculator
+# 🛠️ Unit/Integration Testing Demo
 
 This repository contains a simple Python application used for demonstrating **Unit Testing** and **Integration Testing**.
 
@@ -8,7 +8,7 @@ The application simulates a pricing pipeline that combines **business logic** (a
 
 | File | Purpose | Test Type Demonstrated |
 | :--- | :--- | :--- |
-| `insurance_calculator.py` | Contains the core business logic (`calculate_premium`) and the full pipeline logic (`calculate_final_quote`). | Component under Test |
+| `insurance_calculator.py` | Contains the core business logic (`calculate_premium`) and the full pipeline logic (`calculate_final_quote`). 
 | `test_unit.py` | Contains tests to check the **internal logic** of `calculate_premium` in isolation. | **Unit Tests** |
 | `test_integration.py` | Contains tests to check the **full flow** and **communication** between data fetching and the final quote calculation. | **Integration Tests** |
 | `README.md` | This file. | Instructions |

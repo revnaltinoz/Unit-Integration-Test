@@ -38,13 +38,19 @@ git clone https://github.com/revnaltinoz/Unit-Integration-Test.git
 cd Unit-Integration-Test
 ```
 
-### Step 3: Run Unit Tests
+# Step 3: Install dependencies (
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Run Unit Tests
 
 ```bash
 pytest test_unit.py
 ```
 
-### Step 4: Run Integration Tests
+### Step 5: Run Integration Tests
 
 ```bash
 pytest test_integration.py

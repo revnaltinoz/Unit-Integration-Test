@@ -1,4 +1,4 @@
-# 🛠️ Unit/Integration Testing Demo
+# 🛠️ Unit/Integration Testing 
 
 This repository contains a simple Python application used for demonstrating **Unit Testing** and **Integration Testing**.
 

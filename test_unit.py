@@ -69,8 +69,4 @@ class TestPremiumCalculator(unittest.TestCase):
         self.assertEqual(actual_premium, expected_premium, "The 25-year boundary test failed (age surcharge applied incorrectly).")
 
 
-# To run the tests from the command line: 
-# if __name__ == '__main__':
-#     unittest.main()
-
 # pytest test_unit.py

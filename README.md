@@ -25,4 +25,19 @@ Open your terminal or command prompt and clone this repository:
 
 ```bash
 git clone [YOUR_REPOSITORY_URL_HERE]
+
+### Step 2: Navigate to the Project
+
+```bash
 cd mlops-testing-demo
+
+### Step 3: Run Unit Tests
+
+```bash
+pytest test_unit.py
+
+### Step 4: Run Integration Tests
+
+```bash
+pytest test_integration.py
+

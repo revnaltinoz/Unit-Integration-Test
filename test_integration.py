@@ -55,6 +55,4 @@ class TestPremiumIntegration(unittest.TestCase):
             
         self.assertTrue("driving_score" in str(context.exception), "Integration did not fail on missing data key.")
 
-# ... (if __name__ == '__main__': unittest.main() can be added here)
-
 # pytest test_integration.py

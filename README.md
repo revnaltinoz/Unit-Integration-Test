@@ -38,7 +38,7 @@ git clone https://github.com/revnaltinoz/Unit-Integration-Test.git
 cd Unit-Integration-Test
 ```
 
-# Step 3: Install dependencies (
+# Step 3: Install dependencies 
 
 ```bash
 pip install -r requirements.txt

@@ -4,6 +4,11 @@ This repository contains a simple Python application used for demonstrating **Un
 
 The application simulates a pricing pipeline that combines **business logic** (age/accident rules) and a **score adjustment** (driving score discount).
 
+### 🧠 Why Do We Use Both Unit & Integration Tests?
+
+- **Unit Tests** ensure each function works correctly in isolation and catches logic bugs early.
+- **Integration Tests** validate that multiple components work together as expected and help catch system-level issues.
+
 ## 🚀 Repository Structure
 
 | File | Purpose | Test Type Demonstrated |

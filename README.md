@@ -1,8 +1,8 @@
 # 🛠️ MLOps Testing Demo: Insurance Premium Calculator
 
-This repository contains a simple Python application used for demonstrating **Unit Testing** and **Integration Testing** within an MLOps context.
+This repository contains a simple Python application used for demonstrating **Unit Testing** and **Integration Testing**.
 
-The application simulates a pricing pipeline that combines **business logic** (age/accident rules) and a **Machine Learning score adjustment** (driving score discount).
+The application simulates a pricing pipeline that combines **business logic** (age/accident rules) and a **score adjustment** (driving score discount).
 
 ## 🚀 Repository Structure
 
@@ -24,13 +24,13 @@ You need **Python 3.x** installed on your system. No external libraries are stri
 Open your terminal or command prompt and clone this repository:
 
 ```bash
-git clone [YOUR_REPOSITORY_URL_HERE]
+git clone https://github.com/revnaltinoz/Unit-Integration-Test.git
 ```
 
 ### Step 2: Navigate to the Project
 
 ```bash
-cd mlops-testing-demo
+cd Unit-Integration-Test
 ```
 
 ### Step 3: Run Unit Tests
